@@ -2,4 +2,4 @@
 Alpha text file is opened using command 
 notepad alpha.txt
 
-i am editing this file
+i am editing this file again after pull operation has done
