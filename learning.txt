@@ -1,0 +1,3 @@
+hey hi 
+these is new file 
+lets learn git commands
