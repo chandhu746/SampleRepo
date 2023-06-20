@@ -1,0 +1,2 @@
+Alpha text file is opened using command 
+notepad alpha.txt
